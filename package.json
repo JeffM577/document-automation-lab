@@ -1,0 +1,9 @@
+{
+  "name": "document-automation-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:quote": "node scripts/generate-quote.js"
+  }
+}
